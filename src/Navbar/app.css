@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* app.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    background-color: #2d3748; /* bg-gray-800 */
+    color: #ffffff; /* text-white */
+    padding: 2rem; /* p-4 */
+}
+
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0 10rem;
+    gap: 2rem;
+    margin: 0;
+}
+
+nav ul li {
+    margin-bottom: 0.5rem; 
+}
+
+nav ul li a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #a0aec0; /* hover:text-gray-400 */
+}
+
+@media (min-width: 768px) {
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    nav ul {
+        display: flex;
+        gap: 1rem;
+    }
+
+    nav ul li {
+        margin-bottom: 0;
+    }
+}
+
