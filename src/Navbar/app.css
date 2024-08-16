@@ -56,4 +56,24 @@ nav ul li a:hover {
         margin-bottom: 0;
     }
 }
+.menu-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 18px;
+    font-display: inherit;
 
+}
+.text-footer{
+    background-color: rgb(8, 0, 0);
+    height: 100px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    display: flex;
+}
+
+@media(max-width:700px){
+    .text-footer{
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+}
