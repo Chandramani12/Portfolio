@@ -1,9 +1,9 @@
 import React from 'react';
 import './app.css';
 import image from '../images/chandramani.png';
-const Header = () => {
+const Header = () => {//bg-gray-800
     return (
-        <header className="bg-gray-800 height text-white flex flex-col md:flex-row items-center justify-between">
+        <header className="bg-orange height text-white flex flex-col md:flex-row items-center justify-between">
             {/* <h1 className="text-2xl mb-2 md:mb-0">Chandramani Tiwari</h1> */}
             <img src={image} alt="chandramani" width={200} height={150}/>
             <nav>
