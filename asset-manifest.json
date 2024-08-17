@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.8a65e58f.css",
-    "main.js": "/Portfolio/static/js/main.4bb36a44.js",
+    "main.css": "/Portfolio/static/css/main.882c14a5.css",
+    "main.js": "/Portfolio/static/js/main.1d9255e8.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/Chandramani_Tiwari_Resume.pdf": "/Portfolio/static/media/Chandramani_Tiwari_Resume.05e2e687d79bdbd01a32.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.8a65e58f.css.map": "/Portfolio/static/css/main.8a65e58f.css.map",
-    "main.4bb36a44.js.map": "/Portfolio/static/js/main.4bb36a44.js.map",
+    "main.882c14a5.css.map": "/Portfolio/static/css/main.882c14a5.css.map",
+    "main.1d9255e8.js.map": "/Portfolio/static/js/main.1d9255e8.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a65e58f.css",
-    "static/js/main.4bb36a44.js"
+    "static/css/main.882c14a5.css",
+    "static/js/main.1d9255e8.js"
   ]
 }
